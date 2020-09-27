@@ -1,2 +1,2 @@
 # coursera-test
-Testing browsersync github pages
+Testing browsersync & github pages
